@@ -1,0 +1,69 @@
+#nariz__pata{
+    fill:black;
+}
+
+#cuerpo{
+    fill:black;
+}
+
+#mejilla{
+    fill:black;
+}
+
+#ala{
+    fill: black;
+}
+
+/*loica*/
+
+#cuerpoLoica{
+    fill: red;
+}
+
+#narizPataLoica{
+    fill: rgb(106, 110, 115);
+}
+
+#mejillaLoica{
+    fill:azure;
+}
+
+#alaLoica{
+    fill: black;
+}
+
+/*Martin*/
+
+#cuerpoMartin{
+    fill:dodgerblue;
+}
+
+#narizPataMartin{
+    fill:gray;
+}
+
+#mejillaMartin{
+    fill:salmon;
+}
+
+#alaMartin{
+    fill:midnightblue;
+}
+
+/*Siete Colores*/
+
+#cuerpoSiete{
+    fill:rgb(248, 248, 65);
+}
+
+#narizPataSiete{
+    fill:rgb(41, 41, 41);
+}
+
+#mejillaSiete{
+    fill:rgb(21, 73, 176);
+}
+
+#alaSiete{
+    fill:rgb(9, 104, 25);
+}
